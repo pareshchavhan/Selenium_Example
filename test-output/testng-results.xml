@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9992" started-at="2017-11-25T16:37:16Z" finished-at="2017-11-25T16:37:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9992" started-at="2017-11-25T16:37:16Z" finished-at="2017-11-25T16:37:26Z">
+      <class name="com.selenium.example.Screen_Shot">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.selenium.example.Screen_Shot@56f4468b]" name="setup" is-config="true" duration-ms="9445" started-at="2017-11-25T22:07:16Z" finished-at="2017-11-25T22:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="sceenshot()[pri:0, instance:com.selenium.example.Screen_Shot@56f4468b]" name="sceenshot" duration-ms="480" started-at="2017-11-25T22:07:26Z" finished-at="2017-11-25T22:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sceenshot -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.selenium.example.Screen_Shot@56f4468b]" name="close" is-config="true" duration-ms="0" started-at="2017-11-25T22:07:26Z" finished-at="2017-11-25T22:07:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.selenium.example.Screen_Shot -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
